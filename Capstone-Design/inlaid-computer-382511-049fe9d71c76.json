@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inlaid-computer-382511",
+  "private_key_id": "049fe9d71c767572f87a4b4b9f0b04a9332ee622",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAyJt0032AkV1b\nSNndVhsyF6xneGPQQwhX2fsCmq/r+BxRAis8xuENpmQbLx3aH9GwUSwP7hAXqPSz\n/U5hL2+XnG4anlZb0hRcbvkfOpK0hYNi8HQFiJZHUJeTOtQU6D44GlikJNCymBuK\ny1na7OMbZAZQwjwrtNxdTf7f8+9T1ZN6GpAwb52nGxZ6pM4gAklUJlpTFmbF6OzO\nCxTsRct55MAhNFot6jhxDB2loxaJ52QN22ERX3bLWsfmdeGS/g14VdNinr2zDjjd\nC35AHfH23kpILpk2M8HrVdqx4ftDVbURMiDpH8uQGicBV8SxQ6t5r/rMOW1WVWPO\nSqBw0LMHAgMBAAECggEAFM0wlP0DBD3rLF/ifjL90TxjsnB3mK+69TvEjWXiiJwn\ndgg9YRv2ibIECDjfyDr5tcQ0dG2UF/F3ofo5nFvxdxL+gGnIWLUE1Gp3AAsibE8h\nu6nFYxl3Wa+VA2JsIutiV0xkdyWvzS2Df0js46X+5WQ4GDu1IWQtCPZTA5g/ITTw\n0O9Urjyib1qfEeCGk0Irihiv0CPyRi7m4E4t1J72QE936146MzNhQqKQ42pBe/9z\nEnsIrP8pFGzCtn4s1bIRpDeugRxEuDQHCU+qsU+UzD8gvfXVSIrV5IxeAR/OvGA4\nNQ7pmXUvKAtkd7YIpMlica3LjmMEiyBQpQK2eySaDQKBgQDw4fBt7d60xus2pybC\nm8bceh8IomF9pxI8DpvD2C9+HXYFcnQJKil9Xe7EVPdknMAINGZxP7L5qTLN2ZPK\nA/0F8IvFYeTaaVzE80TrV1yjDSO+VqTyeSG0o8DIAnEZpm02Yui2IhurV/iqYhlU\nyjx3TNoTLhvV9caut2fPSbN22wKBgQDM4ebr2LN1Ot6/yaj//n6M5goS3lj6yDzn\nVRcpJ8CLi6+TgBBbGXPuLDoOUvbacehY5ssSrhyQ/Kgysl1v8xrmwe9/Ta5T26GW\neTemS8ZavTQO09A8WK3Udx+v7XFt7IRpkLAGZRk1jUZ8BV5j7RvnHhxmIsYcz679\nTMb/D8weRQKBgEUFyNoHDgio8x8++DlNX8cvaxMTTHIv3Ga/HN0aZklx8a6P5DX4\nEdltgAxb+GOpEtGHCk+rHAKz++3GSbXaPLdl/Pb7HROEm2OH/Zid+Npz2mkg9LTS\nBtl3DreBE51w9dxerSX7Ughf9c4EvBNyu67Ho7lZPfqqKVtJDIL2MGl/AoGAXnb1\n6t5CeBXJqHIJiubDYKGcGXENY6u5cQvpnt8mRvED5iVQ5UAKFNGtfvc/vB5y+7KG\nBTnkD/F+d8mHjVtwlt7qVy7w5tdIXMHNJ86eSS4dd4yv4XMdyu2V3Z7EAuPfdXDx\nyDEK+4cE7Z/oEni7ucdHXsw/vf7/9uhUhDu7aGUCgYEAsp9p87563qxVofcibKVn\nl2uJd5CNT1cyI6bLG2RCzt1dwOcSlm8GwZI6YyYJZV53Z+Wj16B6dn+yy3L7KaxK\nuA7M4XKemY3gwIhyda1Vz3RvOZwaxVjLOHB3cvbPtQPhfV4TqQsfQ08PDcLK+2KU\nv2nyWoCWdo0vAxdNYn3p1p4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tts-852@inlaid-computer-382511.iam.gserviceaccount.com",
+  "client_id": "109174115988752066226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tts-852%40inlaid-computer-382511.iam.gserviceaccount.com"
+}
